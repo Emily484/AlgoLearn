@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AlgoLearn")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb864a55187ad9916dbf7b5484f8b0217afdf659")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df42f0c5e1d33d215b3db482e38a1e2ef658c658")]
 [assembly: System.Reflection.AssemblyProductAttribute("AlgoLearn")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AlgoLearn")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
